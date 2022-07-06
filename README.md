@@ -7,3 +7,10 @@
 4. Bootstrap: A front-end framework
 5. Python: Programming language.
 6. Django: Python framework
+
+
+### Register
+
+<a href="C:\Users\NAVAMSHU RAM\OneDrive\Desktop\Screenshots\register.png">
+  <img src="LINK_TO_GIF.gif" alt="Gif" width="150" height="150">
+</a>
