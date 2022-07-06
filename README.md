@@ -12,4 +12,4 @@
 ### Register
 
 
-![Kiku](images/"C:\Users\NAVAMSHU RAM\OneDrive\Desktop\Screenshots\register.png")
+![Kiku](images/"C:/Users/NAVAMSHU RAM/OneDrive/Desktop/Screenshots/register.png")
