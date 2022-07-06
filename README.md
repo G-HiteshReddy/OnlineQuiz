@@ -1,7 +1,7 @@
 # OnlineQuiz
 
 ## Project Prerequisites
-### You should have a basic knowledge of the following technologies:
+### Project requirments:
 
 1. HTML: to display content on web page
 2. CSS: to style HTML document
