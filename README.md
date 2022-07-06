@@ -11,6 +11,4 @@
 
 ### Register
 
-<a href="C:\Users\NAVAMSHU RAM\OneDrive\Desktop\Screenshots\register.png">
-  <img src="LINK_TO_GIF.gif" alt="Gif" width="150" height="150">
-</a>
+<img src="C:\Users\NAVAMSHU RAM\OneDrive\Desktop\Screenshots\register.png"/>
