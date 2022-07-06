@@ -11,5 +11,4 @@
 
 ### Register
 
-
-![Kiku](images/"C:/Users/NAVAMSHU RAM/OneDrive/Desktop/Screenshots/register.png")
+![alt text](C:/Users/NAVAMSHU RAM/OneDrive/Desktop/Screenshots/register.png"Logo Title Text 1")
