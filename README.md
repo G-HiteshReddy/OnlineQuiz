@@ -11,4 +11,4 @@
 
 ### Register
 
-![alt text](C:/Users/NAVAMSHU RAM/OneDrive/Desktop/Screenshots/register.png"Logo Title Text 1")
+![alt text]("https://github.com/G-HiteshReddy/OnlineQuiz/blob/main/outputimages/register.png")
