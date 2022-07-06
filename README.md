@@ -1,8 +1,6 @@
 # OnlineQuiz
 
 ## Project Prerequisites
-### Project requirments:
-
 1. HTML: to display content on web page
 2. CSS: to style HTML document
 3. JavaScript: to make a timer
