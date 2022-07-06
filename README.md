@@ -11,4 +11,5 @@
 
 ### Register
 
-<img src="C:\Users\NAVAMSHU RAM\OneDrive\Desktop\Screenshots\register.png"/>
+
+![Kiku](images/"C:\Users\NAVAMSHU RAM\OneDrive\Desktop\Screenshots\register.png")
