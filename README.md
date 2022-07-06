@@ -13,4 +13,11 @@
 
 ![alt text](https://github.com/G-HiteshReddy/OnlineQuiz/blob/main/outputimages/register.png)
 ### Login
-![alt text](
+![alt text](https://github.com/G-HiteshReddy/OnlineQuiz/blob/main/outputimages/Screenshot%202022-07-07%20010533.png)
+### Add Question
+![alt text](https://github.com/G-HiteshReddy/OnlineQuiz/blob/main/outputimages/Screenshot%202022-07-07%20010312.png)
+### HomePage
+![alt text](https://github.com/G-HiteshReddy/OnlineQuiz/blob/main/outputimages/Screenshot%202022-07-07%20010459.png)
+### Results
+![alt text](https://github.com/G-HiteshReddy/OnlineQuiz/blob/main/outputimages/Screenshot%202022-07-07%20010704.png)
+
